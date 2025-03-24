@@ -29,7 +29,7 @@
 
 ## 📫 Contact Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/minh-nguyen-485248334)  
-Email: nndminh03@gmail.com
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:nndminh03@gmail.com)
 
 ---
 🚀 *Let's build something great together!* 😎  
