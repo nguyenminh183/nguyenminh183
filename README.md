@@ -28,8 +28,8 @@
 ---
 
 ## 📫 Contact Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](www.linkedin.com/in/minh-nguyen-485248334)  
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](nndminh03@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/minh-nguyen-485248334)  
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)]   nndminh03@gmail.com 
 
 ---
 🚀 *Let's build something great together!* 😎  
