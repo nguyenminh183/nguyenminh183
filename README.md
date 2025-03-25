@@ -22,7 +22,9 @@
 ---
 
 ## 📊 GitHub Stats  
-<img alt="My stats" align="left" src="https://github-readme-stats.vercel.app/api?username=nguyenminh183&theme=tokyonight" />
+<img alt="My stats" align="left" src="https://github-readme-stats.vercel.app/api?username=nguyenminh183&theme=tokyonight"/>
+
+
 ![My GIF](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
 
 ---
