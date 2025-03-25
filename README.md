@@ -18,6 +18,7 @@
 
 ### 🌍 Web Applications  
 🔹 [Profile Website](https://github.com/nguyenminh183/profile_minh) - Html, Css, Js   
+🔹 [Flappy Bird](https://nguyenminh183.github.io/flappy-bird-game) - Js, Html
 
 ---
 
