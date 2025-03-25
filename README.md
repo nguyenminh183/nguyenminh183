@@ -15,6 +15,7 @@
 ## 🚀 Projects  
 ### 📱 Mobile Development  
 🔹 [Lottery Checker App](https://github.com/nguyenminh183/DoSo) - React Native, Firebase, API Integration  
+🔹 [Flutter-Shop](https://github.com/nguyenminh183/AppFlutter) - Dart  
 
 ### 🌍 Web Applications  
 🔹 [Profile Website](https://github.com/nguyenminh183/profile_minh) - Html, Css, Js   
