@@ -22,7 +22,7 @@
 ---
 
 ## 📊 GitHub Stats  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anusername&theme=dark)  
+<img alt="My stats" align="left" src="https://github-readme-stats.vercel.app/api?username=nguyenminh183&theme=tokyonight" />
 ![My GIF](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
 
 ---
