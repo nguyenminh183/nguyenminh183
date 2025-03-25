@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Minh! 🚀  
+# 👋 Hi there, I'm [Minh](https://nguyenminh183.github.io/profile_minh/)! 🚀  
 
 ## 🔥 About Me  
 💻 Passionate about Software Development & Testing  
