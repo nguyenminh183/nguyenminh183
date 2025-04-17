@@ -18,7 +18,7 @@
 🔹 [Flutter-Shop](https://github.com/nguyenminh183/AppFlutter) - Dart  
 
 ### 🌍 Web Applications  
-🔹 [Profile Website](https://github.com/nguyenminh183/profile_minh) - Html, Css, Js   
+🔹 [Profile Website](https://nguyenminh183.github.io/profile_minh) - Html, Css, Js   
 🔹 [Flappy Bird](https://nguyenminh183.github.io/flappy-bird-game) - Js, Html
 
 ---
